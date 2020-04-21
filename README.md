@@ -1,1 +1,1 @@
-# GIS-Covid19
+# WebGIS-Covid19
